@@ -10,7 +10,7 @@ import  Project  from "../../../lib/model/project"
 
 
 
-const dbUrl = 'mongodb://127.0.0.1:27017/projectsbids';
+const dbUrl = 'mongodb+srv://anujkumarsinghcoder:QgSvKNYjniJWzg0F@project-next.amlt0ce.mongodb.net/?retryWrites=true&w=majority&appName=project-next';
 
 
 
