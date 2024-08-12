@@ -1,0 +1,2 @@
+const {username , password} = process.env
+export const connectionSrt = "mongodb+srv://"+ username +":"+ password +"@project-next.amlt0ce.mongodb.net/projects?retryWrites=true&w=majority&appName=project-next"
